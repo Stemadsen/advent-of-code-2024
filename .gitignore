@@ -19,3 +19,6 @@ build
 
 # Ignore IntelliJ IDEA project files
 .idea
+
+# Ignore Kotlin session files
+.kotlin
